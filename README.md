@@ -11,7 +11,7 @@ by following all the instructions I am able to done this task and in this task I
 <img width="1470" alt="Screen Shot 2022-11-02 at 6 06 39 PM" src="https://user-images.githubusercontent.com/111723339/199611653-5bba8c06-88d0-4326-919b-2bd2aa46f2b1.png">
 
 # Demonstration:
-https://anmolgupta313.github.io/Weather-Dashboard-Challenge-06/
+https://drive.google.com/file/d/1qKZ1-xk3QfwGwR1CD5Hi7ljCkfIibCeJ/view
 
 # License
 Please refer to the LICENSE in the repo.

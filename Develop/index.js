@@ -85,7 +85,7 @@ const questions = [{
 {
     type: 'input',
     name: 'contributionGuidelines',
-    message: 'What is your contribution uidelines?',
+    message: 'What is your contribution guidelines?',
     validate: contributionInput => {
         if(contributionInput){
             return true;

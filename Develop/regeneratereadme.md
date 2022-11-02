@@ -1,7 +1,7 @@
 
 
   ## License 
-   GPL(3.0):[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+   BSD(3):[![License: BSD(3)](https://img.shields.io/badge/License-BSD(3)-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   ## Git User Name: Test Name
 
@@ -22,16 +22,16 @@
 
 
   ## [Installation Instructions](#table-of-contents)
-  Test Installation Instructions
+  Test Installation Instruction
 
   ## [Usage Information](#table-of-contents)
-  Test Usage Info
+  Test Usage iNfo
 
   ## [Contribution Guidelines](#table-of-contents)
   Test Contribution
 
   ## [Test Instructions](#table-of-contents)
-  Test Instructions
+  TestInstructions
 
   ## Git Hub Profile Link
 
